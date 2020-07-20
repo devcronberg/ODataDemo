@@ -15,4 +15,7 @@ Prøv evt
 - https://localhost:44314/api/people?$filter=contains(FirstName, 'ee')
 - https://localhost:44314/api/people(1)
 
-Se evt https://www.odata.org/getting-started/basic-tutorial/
+Se evt
+
+- https://www.odata.org/getting-started/basic-tutorial/
+- https://docs.microsoft.com/en-us/odata/webapi/first-odata-api
